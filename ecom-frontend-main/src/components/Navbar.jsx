@@ -107,9 +107,10 @@ const Navbar = ({ onSelectCategory, onSearch }) => {
       <header>
         <nav className="navbar navbar-expand-lg fixed-top">
           <div className="container-fluid">
-            <a className="navbar-brand" href="www.linkedin.com/in/vikashgandham/">
-              VIKASH
-            </a>
+          <a className="navbar-brand" href="https://www.linkedin.com/in/vikashgandham" target="_blank" rel="noopener noreferrer">
+          VIKASH
+          </a>
+
             <button
               className="navbar-toggler"
               type="button"
